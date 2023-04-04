@@ -1,0 +1,3 @@
+instagrapi
+Pillow
+selenium
